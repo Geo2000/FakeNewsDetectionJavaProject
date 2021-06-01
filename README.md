@@ -15,6 +15,7 @@ Modulul care s-a ocupat de furnizarea de stiri/articole pentru proiectul Fake Ne
 ### - Swagger
 
 ### - Unit Tests
+ - s-au facut teste pentru fiecare metoda care necesita acest lucru
 
 ### - Deploy in cloud - Heroku
 
