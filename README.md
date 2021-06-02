@@ -4,7 +4,7 @@ Modulul care s-a ocupat de furnizarea de stiri/articole pentru proiectul Fake Ne
 
 ## Componente:
 
-### - Web Scraping - Cati Tiganasu
+### - Web Scraping - Cristina-Ecaterina Tiganasu
  - modulul care s-a ocupat de popularea bazei de date cu stiri/articole din diverse surse (BBC News, BuzzFeed, DailyMail, Huffington Post, NBC News, New York Post)
 
 ### - Cron Jobs - Georgiana Murarasu
