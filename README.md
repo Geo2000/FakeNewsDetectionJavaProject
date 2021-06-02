@@ -10,7 +10,13 @@ Modulul care s-a ocupat de furnizarea de stiri/articole pentru proiectul Fake Ne
 ### - Cron Jobs - Georgiana Murarasu
  - modulul care s-a ocupat de executarea scraper-elor la un anumit interval de timp (astfel incat sa avem in baza de date cele mai noi stiri/articole)
 
-### - Spring Boot si REST Web Service
+### - Spring Boot si REST Web Service - Georgiana Murarasu, Maria Olariu, Cristina-Ecaterina Tiganasu
+ -  business
+ - controller
+ - cron
+ - model
+ - repository
+ - service
 
 ### - Swagger - Maria Olariu
 - Pentru testarile functionalitatilor din NewsController se poate utiliza si Swagger:
